@@ -18,5 +18,15 @@ Links dos materiais apresentados na palestra:
 <a href="https://amzn.to/3B1klxQ">Algorithms of Oppression</a><br/>
 
 
+## Indicados:
+
+[Medicina e Visão Computacional](https://www.youtube.com/watch?v=LYDWsMtB_J0)
+
+
+[Cloud Face](https://ssbkyh.com/works/cloud_face/)
+
+
+
+
 
 
